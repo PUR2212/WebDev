@@ -1,5 +1,4 @@
-# springboot-angular-mongodb-crud-tutorial
+# springboot-angular-mongodb-crud
+https://github.com/PUR2212/WebDev
 
-https://www.javaguides.net/2019/12/spring-boot-angular-mongodb-crud-example-tutorial.html
 
-https://www.javaguides.net/2019/12/spring-boot-mongodb-crud-example-tutorial.html
